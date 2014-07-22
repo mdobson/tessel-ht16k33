@@ -1,0 +1,28 @@
+{
+  "name": "tessel-ht16k33",
+  "version": "0.0.1",
+  "description": "Use the Adafruit HT16K33 LED Backpack with your Tessel!",
+  "main": "backpack.js",
+  "dependencies": {
+    "concentrate": "~0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdobson/tessel-ht16k33.git"
+  },
+  "keywords": [
+    "tessel",
+    "LED",
+    "HT16K33"
+  ],
+  "author": "Matthew Dobson <@mdobs>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdobson/tessel-ht16k33/issues"
+  },
+  "homepage": "https://github.com/mdobson/tessel-ht16k33"
+}
